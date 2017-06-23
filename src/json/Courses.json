@@ -1,0 +1,102 @@
+[
+   {    
+      "courseName": "網際網路概論",
+      "description": "大二必修",
+      "teacher": "林仁智",
+      "credit": "3",
+      "day": "一",
+      "startTime": "09:10",
+      "endTime": "12:00",
+      "room": "E403",
+      "key": "course1"
+   },
+   {
+      "courseName": "行動程式設計",
+      "description": "大二選修",
+      "teacher": "俞齊山",
+      "credit": "2",
+      "day": "二",
+      "startTime": "08:10",
+      "endTime": "11:10",
+      "room": "B403",
+      "key": "course2"
+   },
+   {
+      "courseName": "離散數學",
+      "description": "大二選修",
+      "teacher": "洪茂盛",
+      "credit": "3",
+      "day": "三",
+      "startTime": "09:10",
+      "endTime": "12:00",
+      "room": "Y201",
+      "key": "course3"
+   },
+   {
+      "courseName": "計算機概論",
+      "description": "大一必修",
+      "teacher": "林仁智",
+      "credit": "2",
+      "day": "四",
+      "startTime": "09:10",
+      "endTime": "11:10",
+      "room": "Y803",
+      "key": "course4"
+   },
+   {
+      "courseName": "微積分(上)",
+      "description": "大一必修",
+      "teacher": "王富祥",
+      "credit": "3",
+      "day": "五",
+      "startTime": "13:30",
+      "endTime": "16:40",
+      "room": "E403",
+      "key": "course5"
+   },
+   {
+      "courseName": "素描",
+      "description": "大一必修",
+      "teacher": "許一珍",
+      "credit": "2",
+      "day": "四",
+      "startTime": "13:30",
+      "endTime": "15:15",
+      "room": "B203",
+      "key": "course6"
+   },
+   {
+      "courseName": "程式設計",
+      "description": "大一必修",
+      "teacher": "王學武",
+      "credit": "3",
+      "day": "三",
+      "startTime": "13:30",
+      "endTime": "16:40",
+      "room": "F505",
+      "key": "course7"
+   },
+    {
+    "courseName": "數位邏輯設計",
+    "description": "大一必修",
+    "teacher": "俞齊山",
+    "credit": "3",
+    "day": "五",
+    "startTime": "08:10",
+    "endTime": "12:00",
+    "room": "Y306",
+    "key": "course8"
+   },
+      {
+      "courseName": "智慧財產權",
+      "description": "大三必修",
+      "teacher": "范丙林",
+      "credit": "2",
+      "day": "二",
+      "startTime": "13:30",
+      "endTime": "15:15",
+      "room": "F305",
+      "key": "course9"
+   },
+
+]
